@@ -10,6 +10,7 @@ A comprehensive Power BI dashboard for analyzing Honda motorcycle sales performa
 > Add your dashboard screenshot here.
 
 ![Dashboard](dashboard.png)
+<img width="1163" height="652" alt="Screenshot 2026-07-02 202115" src="https://github.com/user-attachments/assets/05a3800e-7d62-48c7-a7ab-381128edae81" />
 
 ---
 
